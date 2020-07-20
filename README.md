@@ -1,5 +1,5 @@
 --- VIRTUAL PET ---
 
-A Tamagotchi-like programme that can be interacted with via your computer.
+A Tamagotchi-like programme created as an educational excercise. 
 
 Author - Tom Hammersley
